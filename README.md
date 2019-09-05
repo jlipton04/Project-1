@@ -9,8 +9,8 @@ follow the instructions mentioned in the readme file.
 
 # Getting Started - Github
 1. Register and create your github account
-2. Fork this repository into your repository
-3. From henceforth, you will be using your own repository for clonning, pull, push whereever applicable during the project
+2. Accept the assignment inviation, create a team
+3. From henceforth, you will be using your own team's repository for clonning, pull, push whereever applicable during the project
 
 # Getting Started - Accessing Lab 
 
@@ -52,4 +52,3 @@ To access those machines, follow the following instructions:
 
 # Submission
 1. You need to prepare seperate files for submissions and push it to the submissions directory
-2. Finally, once you are completed, please create a pull request to the manin repository
