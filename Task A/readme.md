@@ -1,4 +1,4 @@
-# Instructions for Setup
+# Instructions
 
 Follow following instructions to setup the project.
 
