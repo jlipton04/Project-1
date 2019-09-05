@@ -8,7 +8,7 @@ Optimize the DGEMM to use tiling algorithm. Attached slides in note section demo
 3. Why does this method work? 
 4. Find an event in `perf list` that can demonstrate the difference between the original implementation and your implementation. Record results for each and provide. 
 
-# submission
+# Submission
 1. A c file containing optimized code and 
 2. A pdf report containing answer to the questions
 
