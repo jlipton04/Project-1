@@ -7,7 +7,12 @@ follow the instructions mentioned in the readme file.
 2. Task B - In task B, you will compile and run the c programming code, kept inside the Task B directory. 
 2. Task C - In task C, you will have to optimize the code given in Task B and then 
 
-# Things to learn - Accessing Lab 
+# Getting Started - Github
+1. Register and create your github account
+2. Fork this repository into your repository
+3. From henceforth, you will be using your own repository for clonning, pull, push whereever applicable during the project
+
+# Getting Started - Accessing Lab 
 
 Everything needs to be done at the lab machines. There are 5 labs, lab1 - lab5. The code you write needs to compile in those machines. 
 To access those machines, follow the following instructions:
@@ -32,4 +37,4 @@ To access those machines, follow the following instructions:
    c. You might be prompted to enter username and password again
    d. You are now inside lab1 machine terminal
 
-# Submission
+
