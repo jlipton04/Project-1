@@ -25,14 +25,13 @@ To access those machines, follow the following instructions:
    b. When prompted enter your clemson username (corresponds to your email) and password
    
 2. If you are outside campus, connect to `access.computing.clemson.edu`
+   a. When prompted enter your clemson username (corresponds to your email) and password
   
-  a. When prompted enter your clemson username (corresponds to your email) and password
+   b. Now once you are inside campus network, ssh into lab machines using: `ssh myusername@lab1.cs.clemson.edu`
   
-  b. Now once you are inside campus network, ssh into lab machines using: `ssh myusername@lab1.cs.clemson.edu`
+   c. You might be prompted to enter username and password again
   
-  c. You might be prompted to enter username and password again
-  
-  d. You are now inside lab1 machine terminal
+   d. You are now inside lab1 machine terminal
 
 # For Linux  User
 1. If you are inside campus, ssh into “lab1.cs.clemson.edu” using  `ssh myusername@lab1.cs.clemson.edu`
