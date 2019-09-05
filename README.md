@@ -1,4 +1,4 @@
-# Project 1
+# CPSC3300 - Project 1
 
 This project comprises of 3 parts. In the repository, you can see 3 folders - Task A, Task B and Task C.
 
