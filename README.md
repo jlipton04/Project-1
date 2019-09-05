@@ -1,4 +1,4 @@
-# Project 1
+# CPSC3300 - Project 1
 
 This project comprises of 3 parts. In the repository, you can see 3 folders - Task A, Task B and Task C.
 
@@ -19,22 +19,37 @@ To access those machines, follow the following instructions:
 
 # For Windows user
 1. Download and install Putty 
-   a. If you are inside campus, connect to “lab1.cs.clemson.edu”
+   
+   a. If you are inside campus, connect to `lab1.cs.clemson.edu`
+   
    b. When prompted enter your clemson username (corresponds to your email) and password
-2. If you are outside campus, connect to “access.computing.clemson.edu”
-  a. When prompted enter your clemson username (corresponds to your email) and password
-  b. Now once you are inside campus network, ssh into lab machines using: `ssh myusername@lab1.cs.clemson.edu`
-  c. You might be prompted to enter username and password again
-  d. You are now inside lab1 machine terminal
-
-# For Linux  User
-1. If you are inside campus, ssh into “lab1.cs.clemson.edu” using >> ssh myusername@lab1.cs.clemson.edu
+   
+2. If you are outside campus, connect to `access.computing.clemson.edu`
    a. When prompted enter your clemson username (corresponds to your email) and password
-   b. You are now inside lab1 machine terminal
-2. If you are outside campus, connect to “access.computing.clemson.edu” using ssh myusername@access.computing.clemson.edu
-   a. When prompted enter your clemson username (corresponds to your email) and password
-   b. Now once you are inside campus network, ssh into lab machines using: >> ssh myusername@lab1.cs.clemson.edu
+  
+   b. Now once you are inside campus network, ssh into lab machines using: `ssh myusername@lab1.cs.clemson.edu`
+  
    c. You might be prompted to enter username and password again
+  
    d. You are now inside lab1 machine terminal
 
+# For Linux  User
+1. If you are inside campus, ssh into “lab1.cs.clemson.edu” using  `ssh myusername@lab1.cs.clemson.edu`
+   
+   a. When prompted enter your clemson username (corresponds to your email) and password
+   
+   b. You are now inside lab1 machine terminal
+   
+2. If you are outside campus, connect to “access.computing.clemson.edu” using `ssh myusername@access.computing.clemson.edu`
+   
+   a. When prompted enter your clemson username (corresponds to your email) and password
+   
+   b. Now once you are inside campus network, ssh into lab machines using: `ssh myusername@lab1.cs.clemson.edu`
+   
+   c. You might be prompted to enter username and password again
+   
+   d. You are now inside lab1 machine terminal
 
+# Submission
+1. You need to prepare seperate files for submissions and push it to the submissions directory
+2. Finally, once you are completed, please create a pull request to the manin repository
