@@ -37,4 +37,6 @@ To access those machines, follow the following instructions:
    c. You might be prompted to enter username and password again
    d. You are now inside lab1 machine terminal
 
-
+# Submission
+1. You need to prepare seperate files for submissions and push it to the submissions directory
+2. Finally, once you are completed, please create a pull request to the manin repository
