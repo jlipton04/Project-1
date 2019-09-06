@@ -1,6 +1,6 @@
 # Description
 
-Optimize the DGEMM.C in Task B, to use tiling algorithm. Attached slides in note section demonstrate the technique. (tip: use functions to make this super easy). Restrict tile size to be a power of 2, and (tile_size)^2 < problem size so that things divide evenly. Bonus points if you can do uneven blocks without performance loss.
+Optimize the DGEMM.C, to use tiling algorithm. Attached slides in note section demonstrate the technique. (tip: use functions to make this super easy). Restrict tile size to be a power of 2, and (tile_size)^2 < problem size so that things divide evenly. Bonus points if you can do uneven blocks without performance loss.
 
 # Questions
 1. What tile size is best for each problem size? 
