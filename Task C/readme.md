@@ -14,4 +14,4 @@ Optimize the DGEMM.C, to use tiling algorithm. Attached slides in note section d
 
 # Note
 
-For this section of the project, you are not supposed to take help from others or any other external resources. Please refer to https://courses.cs.washington.edu/courses/cse501/96wi/slides/slides.02-05.ps if you need help.
+For this section of the project, you are not supposed to take help from others or any other external resources. Please refer to https://github.com/cu-scalab/Project-1/blob/master/Task%20C/slides.02-05%20(1).pdf if you need help.
