@@ -1,10 +1,7 @@
 # Instructions
 
 1. Go the Task B folder
-2. Study the degmm.c file and understand what it does
-2. Compile the degmm.c file using
-  `gcc -fopenmp dgemm.c -o degmm.out`
-3. Command for running the output file usnig `./degmm.out 4 1000 30 1`
+2. Command for running the output file usnig `./dgmake 4 1000 30 1`
  Note: Here we are using 3 command line arguements:
  a. First command line arguement - Number of threads to run
  b. Second command line arguement - Problem Size
