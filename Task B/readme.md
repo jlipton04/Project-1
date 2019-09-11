@@ -1,12 +1,12 @@
 # Instructions
 
 1. Go the Task B folder
-2. Command for running the output file usnig `./dgmake 4 1000 30 1`
- Note: Here we are using 3 command line arguements:
- a. First command line arguement - Number of threads to run
- b. Second command line arguement - Problem Size
- c. Third command line arguement - Repeats (No of times to repeat the operation (Min value 30))
- d. Fourth command line arguement - Enable / Disable Error checking (1 - True, 0 - False)
+2. Command for running the output file using `./dgmake 4 1000 30 1`
+  Note: Here we are using 3 command line arguements:
+  a. First command line arguement - Number of threads to run
+  b. Second command line arguement - Problem Size
+  c. Third command line arguement - Repeats (No of times to repeat the operation (Min value 30))
+  d. Fourth command line arguement - Enable / Disable Error checking (1 - True, 0 - False)
  
 # Questions
 
