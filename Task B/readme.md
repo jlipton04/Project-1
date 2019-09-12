@@ -15,7 +15,7 @@
  
 # Questions
 
-1. Students should record the time required for 1,2,4,8 threads and problem size 2048, 4096, 8192 and plot it.
+1. Students should record the time required for 1,2,4,8 threads and problem size 2048, 4096, 8192 and plot it (with -O3).
 2. For one thread, use perf to record cycles, instructions, clock rate (error-check disabled). Using the equation we learned in class, compute the time it should take to compute. Does it match the actual time?
 3. Run it with two threads. Are the number of instructions different? Why? (error-check disabled)
 4. Use amdahl's law to compute the theoretical maximum speedup for 4 threads. What % of the maximum did we achieve using 4 threads? (serial portion is computed by perf_time_output - "Multiply Time" from program output) (error check disabled!)
